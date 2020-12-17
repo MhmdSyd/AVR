@@ -1,0 +1,13 @@
+avrtarget/ClockFrequency=20000000
+avrtarget/ExtRAMSize=0
+avrtarget/ExtendedRAM=false
+avrtarget/MCUType=atmega32m1
+avrtarget/UseEEPROM=false
+avrtarget/UseExtendedRAMforHeap=true
+avrtarget/avrdude/Fuses/ByteValues=-1\:-1
+avrtarget/avrdude/Fuses/FileName=
+avrtarget/avrdude/Fuses/MCUid=atmega16
+avrtarget/avrdude/Fuses/UseFile=true
+avrtarget/avrdude/Fuses/Write=false
+avrtarget/perConfig=false
+eclipse.preferences.version=1
